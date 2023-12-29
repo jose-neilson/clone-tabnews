@@ -1,5 +1,6 @@
 function Home() {
-    return <h1>Eae meu parceiro, já tomou um copo da água? Ajeita tua coluna e depois manda foto do copo d'água se viu a mensagem kkkk. <br/>
+    return <h1>Eae meu amigo, venho aqui desejar muita felicidade pra ti. <br/>
+    Espero que esse ano de 2024 possa ser um anos bom para todos nós, mas inclusive para você meu irmão ^^.
     </h1>
 }
 
